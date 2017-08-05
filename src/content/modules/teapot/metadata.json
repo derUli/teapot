@@ -1,7 +1,7 @@
 {
 	"source": "extend",
-	"version": "1.0",
-	"embed": false,
+	"version": "1.1",
+	"embed": true,
 	"controllers": {
 		"Teapot": "Teapot.php"
 	},
